@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GITHUB-masaniL.github.io/rsschool-cv/cv
