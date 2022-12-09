@@ -1,19 +1,20 @@
-###Elizaveta Maslova###
-**Contacts:**
+### Elizaveta Maslova
+#### **Contacts:**
 * E-mail
 * Discord
-* Phone
-**About me**
+* Phone 
+#### **About me**
 Some text
-**Skills**
+#### **Skills**
 * HTML,CSS
 * Git
 * Photoshop, Illustrator
-**Code Example**
+#### **Code Example**
 ```Some code```
-**Experience**
+#### **Experience**
 Some experiense
-**Education**
+#### **Education**
 * Peter the Great St.Petersburg Polytechnic University
 * one more
-**English** B1
+#### **English** 
+B1 (Intermediate)
