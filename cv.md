@@ -1,8 +1,8 @@
 ### Elizaveta Maslova
 #### **Contacts:**
-* E-mail
-* Discord
-* Phone 
+* **E-mail** lizamaslova.work@gmail.com
+* **Discord** masaniL
+* **Phone** 
 #### **About me**
 Some text
 #### **Skills**
